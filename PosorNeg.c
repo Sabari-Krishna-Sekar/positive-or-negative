@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ int a;
+ printf("enter a value");
+ scanf("%d",&a);
+ if(a=0)
+ {
+  printf("the value is ZERO");
+ }
+ else if(a>0)
+ {
+  printf("the value is POSITIVE");
+ }
+ else
+ {
+  printf("the value is NEGATIVE");
+ }
+} 
