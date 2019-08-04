@@ -15,9 +15,5 @@ void main()
  else if(a<0)
  {
   printf("the value is NEGATIVE");
- }
- else
- {
-  printf("enter a valid input");
  } 
 } 
